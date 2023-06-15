@@ -1,0 +1,145 @@
+{
+    "links": [
+        {
+            "highest_utilization": 0,
+            "source": "AR-NICK",
+            "source_interfaces": [
+                "GigabitEthernet0/0/0"
+            ],
+            "source_interfaces_indes": [
+                3
+            ],
+            "speed": "1",
+            "target": "LSW-NICK",
+            "target_interfaces": [
+                "Ethernet0/0/4"
+            ],
+            "target_interfaces_indes": [
+                9
+            ]
+        },
+        {
+            "highest_utilization": 0,
+            "source": "LSW-NICK",
+            "source_interfaces": [
+                "Ethernet0/0/1"
+            ],
+            "source_interfaces_indes": [
+                6
+            ],
+            "speed": "1",
+            "target": "LSW6_NICK",
+            "target_interfaces": [
+                "Ethernet0/0/1"
+            ],
+            "target_interfaces_indes": [
+                6
+            ]
+        },
+        {
+            "highest_utilization": 0,
+            "source": "LSW-NICK",
+            "source_interfaces": [
+                "Ethernet0/0/2"
+            ],
+            "source_interfaces_indes": [
+                7
+            ],
+            "speed": "1",
+            "target": "LSW5_NICK",
+            "target_interfaces": [
+                "Ethernet0/0/1"
+            ],
+            "target_interfaces_indes": [
+                6
+            ]
+        },
+        {
+            "highest_utilization": 0,
+            "source": "LSW-NICK",
+            "source_interfaces": [
+                "Ethernet0/0/3"
+            ],
+            "source_interfaces_indes": [
+                8
+            ],
+            "speed": "1",
+            "target": "",
+            "target_interfaces": [],
+            "target_interfaces_indes": []
+        },
+        {
+            "highest_utilization": 0,
+            "source": "LSW-NICK",
+            "source_interfaces": [
+                "Ethernet0/0/5"
+            ],
+            "source_interfaces_indes": [
+                10
+            ],
+            "speed": "1",
+            "target": "LSW7_NICK",
+            "target_interfaces": [
+                "Ethernet0/0/1"
+            ],
+            "target_interfaces_indes": [
+                6
+            ]
+        },
+        {
+            "highest_utilization": 0,
+            "source": "LSW-NICK",
+            "source_interfaces": [
+                "Ethernet0/0/6"
+            ],
+            "source_interfaces_indes": [
+                11
+            ],
+            "speed": "1",
+            "target": "LSW8_NICK",
+            "target_interfaces": [
+                "Ethernet0/0/1"
+            ],
+            "target_interfaces_indes": [
+                6
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "group": "3",
+            "id": "AR-NICK",
+            "image": "img/devices/router.jpg"
+        },
+        {
+            "group": "2",
+            "id": "LSW-NICK",
+            "image": "img/devices/switch.jpg"
+        },
+        {
+            "group": "2",
+            "id": "LSW6_NICK",
+            "image": "img/devices/switch.jpg"
+        },
+        {
+            "group": "2",
+            "id": "LSW5_NICK",
+            "image": "img/devices/switch.jpg"
+        },
+        {
+            "group": "1",
+            "id": "",
+            "image": "img/devices/host.jpg"
+        },
+        {
+            "group": "2",
+            "id": "LSW7_NICK",
+            "image": "img/devices/switch.jpg"
+        },
+        {
+            "group": "2",
+            "id": "LSW8_NICK",
+            "image": "img/devices/switch.jpg"
+        }
+    ]
+}

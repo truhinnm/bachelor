@@ -1,0 +1,80 @@
+{
+    "AR-NICK": [
+        {
+            "local_int_index": 3,
+            "local_intf": "GigabitEthernet0/0/0",
+            "neighbor": "LSW-NICK",
+            "neighbor_intf": "Ethernet0/0/4"
+        }
+    ],
+    "LSW-NICK": [
+        {
+            "local_int_index": 6,
+            "local_intf": "Ethernet0/0/1",
+            "neighbor": "LSW6_NICK",
+            "neighbor_intf": "Ethernet0/0/1"
+        },
+        {
+            "local_int_index": 7,
+            "local_intf": "Ethernet0/0/2",
+            "neighbor": "LSW5_NICK",
+            "neighbor_intf": "Ethernet0/0/1"
+        },
+        {
+            "local_int_index": 8,
+            "local_intf": "Ethernet0/0/3",
+            "neighbor": "",
+            "neighbor_intf": "\u0002\u0000LOOP"
+        },
+        {
+            "local_int_index": 9,
+            "local_intf": "Ethernet0/0/4",
+            "neighbor": "AR-NICK",
+            "neighbor_intf": "GigabitEthernet0/0/0"
+        },
+        {
+            "local_int_index": 10,
+            "local_intf": "Ethernet0/0/5",
+            "neighbor": "LSW7_NICK",
+            "neighbor_intf": "Ethernet0/0/1"
+        },
+        {
+            "local_int_index": 11,
+            "local_intf": "Ethernet0/0/6",
+            "neighbor": "LSW8_NICK",
+            "neighbor_intf": "Ethernet0/0/1"
+        }
+    ],
+    "LSW5_NICK": [
+        {
+            "local_int_index": 6,
+            "local_intf": "Ethernet0/0/1",
+            "neighbor": "LSW-NICK",
+            "neighbor_intf": "Ethernet0/0/2"
+        }
+    ],
+    "LSW6_NICK": [
+        {
+            "local_int_index": 6,
+            "local_intf": "Ethernet0/0/1",
+            "neighbor": "LSW-NICK",
+            "neighbor_intf": "Ethernet0/0/1"
+        }
+    ],
+    "LSW7_NICK": [
+        {
+            "local_int_index": 6,
+            "local_intf": "Ethernet0/0/1",
+            "neighbor": "LSW-NICK",
+            "neighbor_intf": "Ethernet0/0/5"
+        }
+    ],
+    "LSW8_NICK": [
+        {
+            "local_int_index": 6,
+            "local_intf": "Ethernet0/0/1",
+            "neighbor": "LSW-NICK",
+            "neighbor_intf": "Ethernet0/0/6"
+        }
+    ]
+}

@@ -1,0 +1,1515 @@
+{
+    "": [],
+    "AR-NICK": [
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "InLoopBack0",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "00:00:00:00:00:00",
+            "ifSpeed": "0",
+            "ifType": "24",
+            "index": 1
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "NULL0",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "00:00:00:00:00:00",
+            "ifSpeed": "0",
+            "ifType": "1",
+            "index": 2
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "GigabitEthernet0/0/0",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "00:e0:fc:18:6a:df",
+            "ifSpeed": "1000000000",
+            "ifType": "6",
+            "index": 3
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "GigabitEthernet0/0/1",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "00:e0:fc:18:6a:e0",
+            "ifSpeed": "1000000000",
+            "ifType": "6",
+            "index": 4
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "GigabitEthernet0/0/2",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "00:e0:fc:18:6a:e1",
+            "ifSpeed": "1000000000",
+            "ifType": "6",
+            "index": 5
+        }
+    ],
+    "LSW-NICK": [
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "InLoopBack0",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "00:00:00:00:00:00",
+            "ifSpeed": "0",
+            "ifType": "24",
+            "index": 1
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "NULL0",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "00:00:00:00:00:00",
+            "ifSpeed": "0",
+            "ifType": "1",
+            "index": 2
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Console9/0/0",
+            "ifMtu": "0",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "00:00:00:00:00:00",
+            "ifSpeed": "0",
+            "ifType": "1",
+            "index": 3
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "MEth0/0/1",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "00:00:00:00:00:00",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 4
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Vlanif1",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "1000000000",
+            "ifType": "53",
+            "index": 5
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/1",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 6
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/2",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 7
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/3",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 8
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/4",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 9
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/5",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 10
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/6",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 11
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/7",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 12
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/8",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 13
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/9",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 14
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/10",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 15
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/11",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 16
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/12",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 17
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/13",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 18
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/14",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 19
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/15",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 20
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/16",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 21
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/17",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 22
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/18",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 23
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/19",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 24
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/20",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 25
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/21",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 26
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/22",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 27
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "GigabitEthernet0/0/1",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "1000000000",
+            "ifType": "6",
+            "index": 28
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "GigabitEthernet0/0/2",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:47:03:b5",
+            "ifSpeed": "1000000000",
+            "ifType": "6",
+            "index": 29
+        }
+    ],
+    "LSW5_NICK": [
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "InLoopBack0",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "00:00:00:00:00:00",
+            "ifSpeed": "0",
+            "ifType": "24",
+            "index": 1
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "NULL0",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "00:00:00:00:00:00",
+            "ifSpeed": "0",
+            "ifType": "1",
+            "index": 2
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Console9/0/0",
+            "ifMtu": "0",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "00:00:00:00:00:00",
+            "ifSpeed": "0",
+            "ifType": "1",
+            "index": 3
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "MEth0/0/1",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "00:00:00:00:00:00",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 4
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Vlanif1",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "1000000000",
+            "ifType": "53",
+            "index": 5
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/1",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 6
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/2",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 7
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/3",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 8
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/4",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 9
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/5",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 10
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/6",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 11
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/7",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 12
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/8",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 13
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/9",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 14
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/10",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 15
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/11",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 16
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/12",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 17
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/13",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 18
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/14",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 19
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/15",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 20
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/16",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 21
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/17",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 22
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/18",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 23
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/19",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 24
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/20",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 25
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/21",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 26
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/22",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 27
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "GigabitEthernet0/0/1",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "1000000000",
+            "ifType": "6",
+            "index": 28
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "GigabitEthernet0/0/2",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:bb:4c:ad",
+            "ifSpeed": "1000000000",
+            "ifType": "6",
+            "index": 29
+        }
+    ],
+    "LSW6_NICK": [
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "InLoopBack0",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "00:00:00:00:00:00",
+            "ifSpeed": "0",
+            "ifType": "24",
+            "index": 1
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "NULL0",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "00:00:00:00:00:00",
+            "ifSpeed": "0",
+            "ifType": "1",
+            "index": 2
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Console9/0/0",
+            "ifMtu": "0",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "00:00:00:00:00:00",
+            "ifSpeed": "0",
+            "ifType": "1",
+            "index": 3
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "MEth0/0/1",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "00:00:00:00:00:00",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 4
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Vlanif1",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "1000000000",
+            "ifType": "53",
+            "index": 5
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/1",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 6
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/2",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 7
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/3",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 8
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/4",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 9
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/5",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 10
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/6",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 11
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/7",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 12
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/8",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 13
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/9",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 14
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/10",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 15
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/11",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 16
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/12",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 17
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/13",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 18
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/14",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 19
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/15",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 20
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/16",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 21
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/17",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 22
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/18",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 23
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/19",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 24
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/20",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 25
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/21",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 26
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/22",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 27
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "GigabitEthernet0/0/1",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "1000000000",
+            "ifType": "6",
+            "index": 28
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "GigabitEthernet0/0/2",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:aa:6f:cf",
+            "ifSpeed": "1000000000",
+            "ifType": "6",
+            "index": 29
+        }
+    ],
+    "LSW7_NICK": [
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "InLoopBack0",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "00:00:00:00:00:00",
+            "ifSpeed": "0",
+            "ifType": "24",
+            "index": 1
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "NULL0",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "00:00:00:00:00:00",
+            "ifSpeed": "0",
+            "ifType": "1",
+            "index": 2
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Console9/0/0",
+            "ifMtu": "0",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "00:00:00:00:00:00",
+            "ifSpeed": "0",
+            "ifType": "1",
+            "index": 3
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "MEth0/0/1",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "00:00:00:00:00:00",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 4
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Vlanif1",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "1000000000",
+            "ifType": "53",
+            "index": 5
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/1",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 6
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/2",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 7
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/3",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 8
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/4",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 9
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/5",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 10
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/6",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 11
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/7",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 12
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/8",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 13
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/9",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 14
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/10",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 15
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/11",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 16
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/12",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 17
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/13",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 18
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/14",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 19
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/15",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 20
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/16",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 21
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/17",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 22
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/18",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 23
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/19",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 24
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/20",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 25
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/21",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 26
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/22",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 27
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "GigabitEthernet0/0/1",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "1000000000",
+            "ifType": "6",
+            "index": 28
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "GigabitEthernet0/0/2",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:9a:3c:32",
+            "ifSpeed": "1000000000",
+            "ifType": "6",
+            "index": 29
+        }
+    ],
+    "LSW8_NICK": [
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "InLoopBack0",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "00:00:00:00:00:00",
+            "ifSpeed": "0",
+            "ifType": "24",
+            "index": 1
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "NULL0",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "00:00:00:00:00:00",
+            "ifSpeed": "0",
+            "ifType": "1",
+            "index": 2
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Console9/0/0",
+            "ifMtu": "0",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "00:00:00:00:00:00",
+            "ifSpeed": "0",
+            "ifType": "1",
+            "index": 3
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "MEth0/0/1",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "00:00:00:00:00:00",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 4
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Vlanif1",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "1000000000",
+            "ifType": "53",
+            "index": 5
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/1",
+            "ifMtu": "1500",
+            "ifOperStatus": "1",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 6
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/2",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 7
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/3",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 8
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/4",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 9
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/5",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 10
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/6",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 11
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/7",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 12
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/8",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 13
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/9",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 14
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/10",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 15
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/11",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 16
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/12",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 17
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/13",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 18
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/14",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 19
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/15",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 20
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/16",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 21
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/17",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 22
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/18",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 23
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/19",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 24
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/20",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 25
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/21",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 26
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "Ethernet0/0/22",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "100000000",
+            "ifType": "6",
+            "index": 27
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "GigabitEthernet0/0/1",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "1000000000",
+            "ifType": "6",
+            "index": 28
+        },
+        {
+            "ifAdminStatus": "1",
+            "ifDescr": "GigabitEthernet0/0/2",
+            "ifMtu": "1500",
+            "ifOperStatus": "2",
+            "ifPhysAddress": "4c:1f:cc:8e:74:9b",
+            "ifSpeed": "1000000000",
+            "ifType": "6",
+            "index": 29
+        }
+    ]
+}
